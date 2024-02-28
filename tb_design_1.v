@@ -33,7 +33,7 @@ module tb_memsp;
     // Perform write operation
     @(posedge clka);
     wea = 4'b1111;
-    dina = 32'b01010101010101010101010101010101;
+    dina = 32'b01010101010101010101010101011101;
     ena = 1;
     @(posedge clka);
     ena = 0;
