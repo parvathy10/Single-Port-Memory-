@@ -1,2 +1,2 @@
 Simulation of a single port memory by doing successive writes to 100 locations with different data 
-Read each location successively after leaving an interval of 20 clock 
+Read each location successively after leaving an interval of 20 clock cycle.
